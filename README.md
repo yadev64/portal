@@ -1,6 +1,6 @@
 # portal
 
-Community portal for Mozilla Kerala ( Django Project )
+Community portal for Mozilla Kerala
 Planned features
 
     Landing page
